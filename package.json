@@ -1,9 +1,9 @@
 {
-  "name": "@aragon/ui",
-  "version": "1.7.0",
-  "author": "Aragon Association <legal@aragon.org>",
+  "name": "@yuetlooo/ui",
+  "version": "1.8.0",
+  "author": "YuetLoo <contact@yuetloo.com>",
   "license": "MIT",
-  "repository": "github:aragon/aragon-ui",
+  "repository": "github:yuetloo/aragon-ui",
   "main": "dist/index.js",
   "module": "dist/esm/index.js",
   "sideEffects": false,
